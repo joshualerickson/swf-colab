@@ -11,22 +11,52 @@ Below is a list of some content to help with navigating the wide world of tools!
 Please, if you have any suggestions for the lists feel free to [**PR**](https://github.com/joshualerickson/swf-colab/pulls)! 
 
 Thanks!
-<soil>
 
-</soil>
-<Water>
+---
 
-* [nhdplusTools](https://github.com/USGS-R/nhdplusTools) <img src='https://raw.githubusercontent.com/USGS-R/nhdplusTools/main/man/figures/logo.png' height=50>
+<details>
+<summary>Soils</summary>
 
-* [dataRetrieval](https://github.com/DOI-USGS/dataRetrieval) <img src='https://github.com/DOI-USGS/dataRetrieval/blob/main/man/figures/hex_logo.png' height=50>
+##### R
+
+-   [soilDB](https://github.com/ncss-tech/soilDB)
+-   [aqp](https://github.com/ncss-tech/aqp)
+-   [sharpshootR](https://github.com/ncss-tech/sharpshootR)
+-   [SoilTaxonomy](https://github.com/ncss-tech/SoilTaxonomy)
+
+</details>
 
 
-* [pygeohydro](https://github.com/hyriver/pygeohydro) <img src='https://raw.githubusercontent.com/hyriver/HyRiver-examples/main/notebooks/_static/pygeohydro_logo.png' height=50>
+<details>
+<summary>Water</summary>
 
+##### Python  
 
-* [hyriver](https://docs.hyriver.io/) <img src='https://raw.githubusercontent.com/hyriver/HyRiver-examples/main/notebooks/_static/hyriver_logo_text.png' height=50>
-</Water>
+-  [pygeohydro](https://github.com/hyriver/pygeohydro)
+-  [hyriver](https://docs.hyriver.io/) 
+-  [noaa](https://github.com/paulokuong/noaa)
 
-<Fish>
+##### R  
 
-</Fish>
+- [nhdplusTools](https://github.com/USGS-R/nhdplusTools) 
+- [dataRetrieval](https://github.com/DOI-USGS/dataRetrieval) 
+- [riverdist](https://github.com/mbtyers/riverdist)
+- [nhdR](https://github.com/jsta/nhdR)
+- [hydrolinks](https://github.com/lawinslow/hydrolinks)
+- [HydroData](https://github.com/mikejohnson51/HydroData)
+- [FedData](https://github.com/ropensci/FedData)
+- [snotelr](https://github.com/bluegreen-labs/snotelr)
+- [whitewater](https://github.com/joshualerickson/whitewater)
+- [gwavr](https://github.com/joshualerickson/gwavr)
+- [rnoaa](https://github.com/ropensci/rnoaa)
+
+</details>
+
+<details>
+<summary>Fish</summary>
+</details>
+
+<details>
+<summary>Geospatial/remote sensing</summary>
+
+</details>
