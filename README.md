@@ -14,6 +14,17 @@ Thanks!
 
 ---
 
+### Sign up with github  
+
+https://github.com/join
+
+---
+### Do your first pull request
+
+
+---
+### Packages, libraries, etc  
+
 <details>
 <summary>Soils</summary>
 
